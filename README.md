@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me 9769dyyshappy@naver.com
 - 😄 Pronouns: kind robot? maybe
-- ⚡ Fun fact: I love 짱구는 못말려
+- ⚡ Fun fact: 
 
 <!---
 gonyangg/gonyangg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
